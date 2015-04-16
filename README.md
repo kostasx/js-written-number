@@ -22,6 +22,12 @@ writtenNumber(1234); // => 'one thousand two hundred and thirty-four'
 npm i --save written-number
 ```
 
+## Language Support
+
+* English
+* Greek (under development)
+* French (under development)
+
 ## License
 This code is licensed under the MIT license for Pedro Tacla Yamada. For more
 information, please refer to the [LICENSE](/LICENSE) file.
